@@ -1,0 +1,3 @@
+rootProject.name = 'mystore2'
+
+include ':app'
